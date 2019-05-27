@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1558934077 source:c:\users\principal\desktop\tvc2_projeto\listaduplacircular.cpp
+	<iostream>
+	<cstdlib>
+	"NoDuplo.h"
+	"ListaDuplaCircular.h"
+
+1558934077 aCircular.h"
+
+1540520710 c:\users\principal\desktop\tvc2_projeto\noduplo.h
+
+1558813450 c:\users\principal\desktop\tvc2_projeto\listaduplacircular.h
+
+1558972541 source:c:\users\principal\desktop\tvc2_projeto\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+	"NoSimples.h"
+
+1540653811 .h"
+
+1540751930 c:\users\principal\desktop\tvc2_projeto\listaencad.h
+	"NoSimples.h"
+
+1540750511 c:\users\principal\desktop\tvc2_projeto\nosimples.h
+
+1558935860 source:c:\users\principal\desktop\tvc2_projeto\matrizesparsa.cpp
+	<cstdlib>
+	<iostream>
+	"MatrizEsparsa.h"
+
+1558932823 arsa.h"
+
+1540652876 c:\users\principal\desktop\tvc2_projeto\matrizesparsa.h
+
+1540653811 source:c:\users\principal\desktop\tvc2_projeto\pilhacont.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaCont.h"
+
+1540654003 c:\users\principal\desktop\tvc2_projeto\pilhacont.h
+
+1558932823 source:c:\users\principal\desktop\tvc2_projeto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"ListaDuplaCircular.h"
+	"PilhaCont.h"
+	"ListaEncad.h"
+	"MatrizEsparsa.h"
+
+1558995400 source:/ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/ListaDuplaCircular.cpp
+	<iostream>
+	<cstdlib>
+	"NoDuplo.h"
+	"ListaDuplaCircular.h"
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/NoDuplo.h
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/ListaDuplaCircular.h
+
+1558972681 source:/ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/ListaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+	"NoSimples.h"
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/ListaEncad.h
+	"NoSimples.h"
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/NoSimples.h
+
+1558995400 source:/ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"ListaDuplaCircular.h"
+	"PilhaCont.h"
+	"ListaEncad.h"
+	"MatrizEsparsa.h"
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/PilhaCont.h
+
+1558972681 /ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/MatrizEsparsa.h
+
+1558996938 source:/ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/MatrizEsparsa.cpp
+	<cstdlib>
+	<iostream>
+	"MatrizEsparsa.h"
+
+1558972681 source:/ice/Downloads/so-falta-o-ultimo-uribiiiiiiiiiiiiiiiiiiiii-master/TVC2_Projeto/PilhaCont.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaCont.h"
+
